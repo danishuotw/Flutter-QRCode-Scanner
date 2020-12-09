@@ -1,0 +1,1 @@
+# Flutter-QRCode-Scanner
